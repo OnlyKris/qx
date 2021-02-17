@@ -1,2 +1,3 @@
 # qx
-qx configuration files
+
+qx custom configuration
